@@ -1,0 +1,296 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Hashtable id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>127</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>197</HashSize>
+<Keys href="#ref-2"/>
+<Values href="#ref-3"/>
+</a1:Hashtable>
+<SOAP-ENC:Array id="ref-2" SOAP-ENC:arrayType="xsd:anyType[122]">
+<item id="ref-4" xsi:type="SOAP-ENC:string">mIsMeridianRetryWD</item>
+<item id="ref-5" xsi:type="SOAP-ENC:string">mStartFlag</item>
+<item id="ref-6" xsi:type="SOAP-ENC:string">mFS_West_Name</item>
+<item id="ref-7" xsi:type="SOAP-ENC:string">mOnEndGoodNight_IsMoveFilter</item>
+<item id="ref-8" xsi:type="SOAP-ENC:string">mGuideData.ExposeTimeSeconds</item>
+<item id="ref-9" xsi:type="SOAP-ENC:string">mFocusEachMin</item>
+<item id="ref-10" xsi:type="SOAP-ENC:string">mExitOnAltitude</item>
+<item id="ref-11" xsi:type="SOAP-ENC:string">mIsGoodNightManagedPark_ERROR</item>
+<item id="ref-12" xsi:type="SOAP-ENC:string">mFS_FiltroIndice</item>
+<item id="ref-13" xsi:type="SOAP-ENC:string">ElementiGainOffset</item>
+<item id="ref-14" xsi:type="SOAP-ENC:string">RA_TEXT</item>
+<item id="ref-15" xsi:type="SOAP-ENC:string">mPSALT_IsOverride</item>
+<item id="ref-16" xsi:type="SOAP-ENC:string">mDitheringEachXExp</item>
+<item id="ref-17" xsi:type="SOAP-ENC:string">mIsFocusManaged</item>
+<item id="ref-18" xsi:type="SOAP-ENC:string">mFocusBySlot</item>
+<item id="ref-19" xsi:type="SOAP-ENC:string">mPATollerance</item>
+<item id="ref-20" xsi:type="SOAP-ENC:string">mAOCenteringAfterDithering</item>
+<item id="ref-21" xsi:type="SOAP-ENC:string">mIsFocusLowPrecisionPointing</item>
+<item id="ref-22" xsi:type="SOAP-ENC:string">mExitOnHAAfter</item>
+<item id="ref-23" xsi:type="SOAP-ENC:string">Elementi</item>
+<item id="ref-24" xsi:type="SOAP-ENC:string">mPSALT_Bin</item>
+<item id="ref-25" xsi:type="SOAP-ENC:string">mIsSubFolderFilter</item>
+<item id="ref-26" xsi:type="SOAP-ENC:string">mFocusEachTemp</item>
+<item id="ref-27" xsi:type="SOAP-ENC:string">DEC_TEXT</item>
+<item id="ref-28" xsi:type="SOAP-ENC:string">mFS_West_RA</item>
+<item id="ref-29" xsi:type="SOAP-ENC:string">mDirectoryBase</item>
+<item id="ref-30" xsi:type="SOAP-ENC:string">mAOCenteringModeExposureInterval</item>
+<item id="ref-31" xsi:type="SOAP-ENC:string">mIsTimeEND</item>
+<item id="ref-32" xsi:type="SOAP-ENC:string">mOnErrGoodNight_FilterIndex</item>
+<item id="ref-33" xsi:type="SOAP-ENC:string">mPSALT_ExposeTime</item>
+<item id="ref-34" xsi:type="SOAP-ENC:string">mPSALT_Frame</item>
+<item id="ref-35" xsi:type="SOAP-ENC:string">mIsFocusOnStart</item>
+<item id="ref-36" xsi:type="SOAP-ENC:string">mSubFramePerc</item>
+<item id="ref-37" xsi:type="SOAP-ENC:string">mRedoExposeOnError</item>
+<item id="ref-38" xsi:type="SOAP-ENC:string">mFS_East_DEC</item>
+<item id="ref-39" xsi:type="SOAP-ENC:string">mSubFrame</item>
+<item id="ref-40" xsi:type="SOAP-ENC:string">mIsGoodNightManagedPark</item>
+<item id="ref-41" xsi:type="SOAP-ENC:string">mFS_West_DEC</item>
+<item id="ref-42" xsi:type="SOAP-ENC:string">mExitOnAltitude_ValueAbove</item>
+<item id="ref-43" xsi:type="SOAP-ENC:string">mExitOnHABefore_Value</item>
+<item id="ref-44" xsi:type="SOAP-ENC:string">mTrackingStopWD</item>
+<item id="ref-45" xsi:type="SOAP-ENC:string">mIsGuided</item>
+<item id="ref-46" xsi:type="SOAP-ENC:string">PA</item>
+<item id="ref-47" xsi:type="SOAP-ENC:string">mFocusHFDVariation</item>
+<item id="ref-48" xsi:type="SOAP-ENC:string">mIsGoodNightManaged</item>
+<item id="ref-49" xsi:type="SOAP-ENC:string">mPointTargetOnStart</item>
+<item id="ref-50" xsi:type="SOAP-ENC:string">mTipoSequenza</item>
+<item id="ref-51" xsi:type="SOAP-ENC:string">mIsGoodNightManagedWarmupSync</item>
+<item id="ref-52" xsi:type="SOAP-ENC:string">mIsMaximMultiStar</item>
+<item id="ref-53" xsi:type="SOAP-ENC:string">mFS_East_RA</item>
+<item id="ref-54" xsi:type="SOAP-ENC:string">mExitOnAzimuthAfter</item>
+<item id="ref-55" xsi:type="SOAP-ENC:string">mAOCenteringMode</item>
+<item id="ref-56" xsi:type="SOAP-ENC:string">mExitOnAzimuthBefore_Value</item>
+<item id="ref-57" xsi:type="SOAP-ENC:string">mMeridianRetryWD</item>
+<item id="ref-58" xsi:type="SOAP-ENC:string">mPSALT_FilterIndex</item>
+<item id="ref-59" xsi:type="SOAP-ENC:string">mIsGoodNightManagedWarmupSync_ERROR</item>
+<item id="ref-60" xsi:type="SOAP-ENC:string">mFocusEachAlt</item>
+<item id="ref-61" xsi:type="SOAP-ENC:string">mIsGuideDithering</item>
+<item id="ref-62" xsi:type="SOAP-ENC:string">mFDCloseErrorCoverDeviceIndex</item>
+<item id="ref-63" xsi:type="SOAP-ENC:string">mIsPatternFile</item>
+<item id="ref-64" xsi:type="SOAP-ENC:string">mFDOpenCover</item>
+<item id="ref-65" xsi:type="SOAP-ENC:string">mIsWaitBetween</item>
+<item id="ref-66" xsi:type="SOAP-ENC:string">mIsGoodNightManaged_ERROR</item>
+<item id="ref-67" xsi:type="SOAP-ENC:string">mFlipRotatorOnMeridianFlip</item>
+<item id="ref-68" xsi:type="SOAP-ENC:string">mPercentualeStarLost</item>
+<item id="ref-69" xsi:type="SOAP-ENC:string">mIsGoodNightManagedWarmupAsync</item>
+<item id="ref-70" xsi:type="SOAP-ENC:string">mRepeat</item>
+<item id="ref-71" xsi:type="SOAP-ENC:string">mIsStarLostDetection</item>
+<item id="ref-72" xsi:type="SOAP-ENC:string">mFocusHFDVariationMaxAllowed</item>
+<item id="ref-73" xsi:type="SOAP-ENC:string">mExitOnAzimuthBefore</item>
+<item id="ref-74" xsi:type="SOAP-ENC:string">mIsGuideCalibrationNeeded</item>
+<item id="ref-75" xsi:type="SOAP-ENC:string">mIsTimeWaitAtStart</item>
+<item id="ref-76" xsi:type="SOAP-ENC:string">mIsSubFolder</item>
+<item id="ref-77" xsi:type="SOAP-ENC:string">mForceRoboStarFirst</item>
+<item id="ref-78" xsi:type="SOAP-ENC:string">mExitOnAltitudeAbove</item>
+<item id="ref-79" xsi:type="SOAP-ENC:string">TargetName</item>
+<item id="ref-80" xsi:type="SOAP-ENC:string">mIsReverseAzimutAngle</item>
+<item id="ref-81" xsi:type="SOAP-ENC:string">mMeridianForceOutSide</item>
+<item id="ref-82" xsi:type="SOAP-ENC:string">mIsRepeat</item>
+<item id="ref-83" xsi:type="SOAP-ENC:string">mRealignTarget</item>
+<item id="ref-84" xsi:type="SOAP-ENC:string">mFocusEach</item>
+<item id="ref-85" xsi:type="SOAP-ENC:string">mExitOnAzimuthAfter_Value</item>
+<item id="ref-86" xsi:type="SOAP-ENC:string">mDisablePS</item>
+<item id="ref-87" xsi:type="SOAP-ENC:string">mTrackStartWaitOnStart</item>
+<item id="ref-88" xsi:type="SOAP-ENC:string">mRealignTargetInterval</item>
+<item id="ref-89" xsi:type="SOAP-ENC:string">mGotoRetry</item>
+<item id="ref-90" xsi:type="SOAP-ENC:string">mGuideStarSelectMethod</item>
+<item id="ref-91" xsi:type="SOAP-ENC:string">mIsGoodNightManagedWarmupAsync_ERROR</item>
+<item id="ref-92" xsi:type="SOAP-ENC:string">mExitOnHAAfter_Value</item>
+<item id="ref-93" xsi:type="SOAP-ENC:string">mInjectFocusOnMeridianFlip</item>
+<item id="ref-94" xsi:type="SOAP-ENC:string">mMeridianForceAbort_MaxTime</item>
+<item id="ref-95" xsi:type="SOAP-ENC:string">mOnFocusErrorUseRoboStar</item>
+<item id="ref-96" xsi:type="SOAP-ENC:string">mExitOnHABefore</item>
+<item id="ref-97" xsi:type="SOAP-ENC:string">mFDOpenCoverDeviceIndex</item>
+<item id="ref-98" xsi:type="SOAP-ENC:string">mFDOpenCoverAfterTimeWait</item>
+<item id="ref-99" xsi:type="SOAP-ENC:string">mFS_East_Name</item>
+<item id="ref-100" xsi:type="SOAP-ENC:string">mIsCoolingManaged</item>
+<item id="ref-101" xsi:type="SOAP-ENC:string">mGuideDitheringData.Pixels</item>
+<item id="ref-102" xsi:type="SOAP-ENC:string">mFocusMethod</item>
+<item id="ref-103" xsi:type="SOAP-ENC:string">mIsWarmupManaged</item>
+<item id="ref-104" xsi:type="SOAP-ENC:string">mModo</item>
+<item id="ref-105" xsi:type="SOAP-ENC:string">mTrackingStopWD_Retry</item>
+<item id="ref-106" xsi:type="SOAP-ENC:string">mIsSubFrame</item>
+<item id="ref-107" xsi:type="SOAP-ENC:string">mFocusEachActualFilter</item>
+<item id="ref-108" xsi:type="SOAP-ENC:string">mIsWarmupManagedSync</item>
+<item id="ref-109" xsi:type="SOAP-ENC:string">mExitOnAltitude_Value</item>
+<item id="ref-110" xsi:type="SOAP-ENC:string">mIsFDCloseEndCoverDevice</item>
+<item id="ref-111" xsi:type="SOAP-ENC:string">mMantainImageRotation</item>
+<item id="ref-112" xsi:type="SOAP-ENC:string">mFDCloseEndCoverDeviceIndex</item>
+<item id="ref-113" xsi:type="SOAP-ENC:string">mOnEndGoodNight_FilterIndex</item>
+<item id="ref-114" xsi:type="SOAP-ENC:string">mIsFocusOnStartALL</item>
+<item id="ref-115" xsi:type="SOAP-ENC:string">mMeridianForceAbort</item>
+<item id="ref-116" xsi:type="SOAP-ENC:string">mBypassDefaultPSFilterUseActual</item>
+<item id="ref-117" xsi:type="SOAP-ENC:string">mIsRotator</item>
+<item id="ref-118" xsi:type="SOAP-ENC:string">mFocusLowPrecisionPointingMultiplier</item>
+<item id="ref-119" xsi:type="SOAP-ENC:string">mGuideData.ExposeBinning</item>
+<item id="ref-120" xsi:type="SOAP-ENC:string">mIsSkyPA</item>
+<item id="ref-121" xsi:type="SOAP-ENC:string">mFDOpenCoverOnStart</item>
+<item id="ref-122" xsi:type="SOAP-ENC:string">mOnErrGoodNight_IsMoveFilter</item>
+<item id="ref-123" xsi:type="SOAP-ENC:string">mProfiloAssociato</item>
+<item id="ref-124" xsi:type="SOAP-ENC:string">mIsFDCloseErrorCoverDevice</item>
+<item id="ref-125" xsi:type="SOAP-ENC:string">mMeridianFlipMode</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:anyType[122]">
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item id="ref-126" xsi:type="SOAP-ENC:string"></item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">3</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item href="#ref-127"/>
+<item id="ref-128" xsi:type="SOAP-ENC:string">12 50 53.000 </item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:double">3</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item href="#ref-129"/>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item id="ref-130" xsi:type="SOAP-ENC:string">41 07 12.55 </item>
+<item xsi:type="xsd:double">0</item>
+<item id="ref-131" xsi:type="SOAP-ENC:string">C:\Users\sroastronomer1946\Documents\Voyager\Sequence\M94</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">-1</item>
+<item xsi:type="xsd:double">10</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:int">100</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">0</item>
+<item xsi:type="xsd:double">0</item>
+<item xsi:type="xsd:double">-0.5</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:double">0</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:double">0</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">60</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">16</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:double">45</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item id="ref-132" xsi:type="SOAP-ENC:string">M94</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">360</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">30</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">0.5</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:int">30</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item href="#ref-126"/>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">3.5</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">10</item>
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item id="ref-133" xsi:type="SOAP-ENC:string">C:\Users\sroastronomer1946\Documents\Voyager\Profile\SRO_24_Oct_19.v2y</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">2</item>
+</SOAP-ENC:Array>
+<a1:ArrayList id="ref-127" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-134"/>
+<_size>1</_size>
+<_version>315</_version>
+</a1:ArrayList>
+<a1:ArrayList id="ref-129" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-135"/>
+<_size>1</_size>
+<_version>315</_version>
+</a1:ArrayList>
+<SOAP-ENC:Array id="ref-134" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item href="#ref-136"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-135" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item href="#ref-137"/>
+</SOAP-ENC:Array>
+<a3:SequenzaElementoGainOffset id="ref-136" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<SlotNumber>1</SlotNumber>
+<Gain>0</Gain>
+<Offset>0</Offset>
+</a3:SequenzaElementoGainOffset>
+<a3:SequenzaElemento id="ref-137" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<mTipoEsposizione>0</mTipoEsposizione>
+<mFiltroIndice>0</mFiltroIndice>
+<mFiltroLabel href="#ref-126"/>
+<mEsposizioneSecondi>900</mEsposizioneSecondi>
+<mBinning>1</mBinning>
+<mNumero>6</mNumero>
+<mSpeedIndice>0</mSpeedIndice>
+<mReadoutIndice>2</mReadoutIndice>
+<mPlanningHelpElaborate>0</mPlanningHelpElaborate>
+<mEseguite>0</mEseguite>
+<mStatisticheSub xsi:null="1"/>
+<mLastInsNum>0</mLastInsNum>
+</a3:SequenzaElemento>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

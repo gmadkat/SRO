@@ -1,0 +1,206 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Hashtable id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>31</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>89</HashSize>
+<Keys href="#ref-2"/>
+<Values href="#ref-3"/>
+</a1:Hashtable>
+<SOAP-ENC:Array id="ref-2" SOAP-ENC:arrayType="xsd:anyType[27]">
+<item id="ref-4" xsi:type="SOAP-ENC:string">MoveToAz</item>
+<item id="ref-5" xsi:type="SOAP-ENC:string">ALGainOffset</item>
+<item id="ref-6" xsi:type="SOAP-ENC:string">FlatDeviceIndex</item>
+<item id="ref-7" xsi:type="SOAP-ENC:string">FileName</item>
+<item id="ref-8" xsi:type="SOAP-ENC:string">IsPatternFile</item>
+<item id="ref-9" xsi:type="SOAP-ENC:string">PA</item>
+<item id="ref-10" xsi:type="SOAP-ENC:string">FlatDataElements</item>
+<item id="ref-11" xsi:type="SOAP-ENC:string">MaxRetry</item>
+<item id="ref-12" xsi:type="SOAP-ENC:string">FlatLightPerSLot</item>
+<item id="ref-13" xsi:type="SOAP-ENC:string">SubFramePerc</item>
+<item id="ref-14" xsi:type="SOAP-ENC:string">BaseName</item>
+<item id="ref-15" xsi:type="SOAP-ENC:string">IsDithering</item>
+<item id="ref-16" xsi:type="SOAP-ENC:string">IsSubFolder</item>
+<item id="ref-17" xsi:type="SOAP-ENC:string">IsParkOnEnd</item>
+<item id="ref-18" xsi:type="SOAP-ENC:string">IsFilterChange</item>
+<item id="ref-19" xsi:type="SOAP-ENC:string">IsMoveToAltAz</item>
+<item id="ref-20" xsi:type="SOAP-ENC:string">SubFrame</item>
+<item id="ref-21" xsi:type="SOAP-ENC:string">MoveToAlt</item>
+<item id="ref-22" xsi:type="SOAP-ENC:string">IsSubFrame</item>
+<item id="ref-23" xsi:type="SOAP-ENC:string">IsParkOnStart</item>
+<item id="ref-24" xsi:type="SOAP-ENC:string">IsRotator</item>
+<item id="ref-25" xsi:type="SOAP-ENC:string">FlatType</item>
+<item id="ref-26" xsi:type="SOAP-ENC:string">IsSkyFlatAutoSlew</item>
+<item id="ref-27" xsi:type="SOAP-ENC:string">ProfiloAssociato</item>
+<item id="ref-28" xsi:type="SOAP-ENC:string">IsEveryFlat</item>
+<item id="ref-29" xsi:type="SOAP-ENC:string">BaseDir</item>
+<item id="ref-30" xsi:type="SOAP-ENC:string">StopTrack</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:anyType[27]">
+<item xsi:type="xsd:double">NaN</item>
+<item href="#ref-31"/>
+<item xsi:type="xsd:int">0</item>
+<item id="ref-32" xsi:type="SOAP-ENC:string">C:\Users\sroastronomer1946\Documents\Voyager\ConfigSequence\Flats L NB_Dawn.s2f</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:double">0</item>
+<item href="#ref-33"/>
+<item xsi:type="xsd:int">3</item>
+<item href="#ref-34"/>
+<item xsi:type="xsd:int">100</item>
+<item id="ref-35" xsi:type="SOAP-ENC:string">LRGB_AutoFlat</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">true</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">0</item>
+<item xsi:type="xsd:double">NaN</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:boolean">false</item>
+<item xsi:type="xsd:int">1</item>
+<item xsi:type="xsd:boolean">true</item>
+<item id="ref-36" xsi:type="SOAP-ENC:string">C:\Users\sroastronomer1946\Documents\Voyager\Profile\pw14-Aug-2021.v2y</item>
+<item xsi:type="xsd:boolean">true</item>
+<item id="ref-37" xsi:type="SOAP-ENC:string">C:\Users\sroastronomer1946\Documents\Flats</item>
+<item xsi:type="xsd:boolean">false</item>
+</SOAP-ENC:Array>
+<a1:ArrayList id="ref-31" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-38"/>
+<_size>4</_size>
+<_version>45</_version>
+</a1:ArrayList>
+<a1:ArrayList id="ref-33" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-39"/>
+<_size>4</_size>
+<_version>45</_version>
+</a1:ArrayList>
+<a1:Hashtable id="ref-34" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>37</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>7</HashSize>
+<Keys href="#ref-40"/>
+<Values href="#ref-41"/>
+</a1:Hashtable>
+<SOAP-ENC:Array id="ref-38" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item href="#ref-42"/>
+<item href="#ref-43"/>
+<item href="#ref-44"/>
+<item href="#ref-45"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-39" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item href="#ref-46"/>
+<item href="#ref-47"/>
+<item href="#ref-48"/>
+<item href="#ref-49"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-40" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item xsi:type="xsd:int">4</item>
+<item xsi:type="xsd:int">3</item>
+<item xsi:type="xsd:int">2</item>
+<item xsi:type="xsd:int">1</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-41" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item xsi:type="xsd:int">128</item>
+<item xsi:type="xsd:int">128</item>
+<item xsi:type="xsd:int">128</item>
+<item xsi:type="xsd:int">128</item>
+</SOAP-ENC:Array>
+<a3:SequenzaElementoGainOffset id="ref-42" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<SlotNumber>1</SlotNumber>
+<Gain>0</Gain>
+<Offset>0</Offset>
+</a3:SequenzaElementoGainOffset>
+<a3:SequenzaElementoGainOffset id="ref-43" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<SlotNumber>2</SlotNumber>
+<Gain>0</Gain>
+<Offset>0</Offset>
+</a3:SequenzaElementoGainOffset>
+<a3:SequenzaElementoGainOffset id="ref-44" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<SlotNumber>3</SlotNumber>
+<Gain>0</Gain>
+<Offset>0</Offset>
+</a3:SequenzaElementoGainOffset>
+<a3:SequenzaElementoGainOffset id="ref-45" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<SlotNumber>4</SlotNumber>
+<Gain>0</Gain>
+<Offset>0</Offset>
+</a3:SequenzaElementoGainOffset>
+<a3:ParametriFlat id="ref-46" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<IsOSC>false</IsOSC>
+<FilterIndex>0</FilterIndex>
+<NumeroFlat>9</NumeroFlat>
+<Binning>1</Binning>
+<MinExposure>3.3</MinExposure>
+<MaxExposure>13</MaxExposure>
+<InitExposure>3.3</InitExposure>
+<SaveToDir href="#ref-37"/>
+<BaseFlatName href="#ref-35"/>
+<TargetADUMean>34500</TargetADUMean>
+<MaxDevPerc>23</MaxDevPerc>
+<UseROI>true</UseROI>
+<ROISidePixel>1024</ROISidePixel>
+<FilterLabel id="ref-51"></FilterLabel>
+<SpeedIndice>0</SpeedIndice>
+<ReadoutIndice>1</ReadoutIndice>
+</a3:ParametriFlat>
+<a3:ParametriFlat id="ref-47" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<IsOSC>false</IsOSC>
+<FilterIndex>4</FilterIndex>
+<NumeroFlat>8</NumeroFlat>
+<Binning>1</Binning>
+<MinExposure>3.3</MinExposure>
+<MaxExposure>14</MaxExposure>
+<InitExposure>3.3</InitExposure>
+<SaveToDir href="#ref-37"/>
+<BaseFlatName href="#ref-35"/>
+<TargetADUMean>34500</TargetADUMean>
+<MaxDevPerc>23</MaxDevPerc>
+<UseROI>true</UseROI>
+<ROISidePixel>1024</ROISidePixel>
+<FilterLabel href="#ref-51"/>
+<SpeedIndice>0</SpeedIndice>
+<ReadoutIndice>1</ReadoutIndice>
+</a3:ParametriFlat>
+<a3:ParametriFlat id="ref-48" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<IsOSC>false</IsOSC>
+<FilterIndex>5</FilterIndex>
+<NumeroFlat>8</NumeroFlat>
+<Binning>1</Binning>
+<MinExposure>3.3</MinExposure>
+<MaxExposure>14</MaxExposure>
+<InitExposure>3.3</InitExposure>
+<SaveToDir href="#ref-37"/>
+<BaseFlatName href="#ref-35"/>
+<TargetADUMean>34500</TargetADUMean>
+<MaxDevPerc>23</MaxDevPerc>
+<UseROI>true</UseROI>
+<ROISidePixel>1024</ROISidePixel>
+<FilterLabel href="#ref-51"/>
+<SpeedIndice>0</SpeedIndice>
+<ReadoutIndice>1</ReadoutIndice>
+</a3:ParametriFlat>
+<a3:ParametriFlat id="ref-49" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/Voyager2/Voyager2%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<IsOSC>false</IsOSC>
+<FilterIndex>6</FilterIndex>
+<NumeroFlat>8</NumeroFlat>
+<Binning>1</Binning>
+<MinExposure>3.3</MinExposure>
+<MaxExposure>14</MaxExposure>
+<InitExposure>3.3</InitExposure>
+<SaveToDir href="#ref-37"/>
+<BaseFlatName href="#ref-35"/>
+<TargetADUMean>34500</TargetADUMean>
+<MaxDevPerc>23</MaxDevPerc>
+<UseROI>true</UseROI>
+<ROISidePixel>1024</ROISidePixel>
+<FilterLabel href="#ref-51"/>
+<SpeedIndice>0</SpeedIndice>
+<ReadoutIndice>1</ReadoutIndice>
+</a3:ParametriFlat>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
