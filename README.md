@@ -3,6 +3,6 @@ Repository to store the files on SRO, includes voyager scripts and the last moun
 
 Directories:
 
-Script
-ConfigSequence
+Script: Location of s2q scripts
+ConfigSequence: Location of vos 
 
